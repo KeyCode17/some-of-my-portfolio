@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media1.tenor.com/images/a5e0c08ee337053b43f97961e8b25b0a/tenor.gif"> <br> I'm Mochammad Daffa Putra Karyudi</h1>
-<h3 align="center">Welcome to my portfolio</h3>
+
 
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=n0rhzcnqghyfcaxfu74new5d3&cover_image=true&theme=default">
 
