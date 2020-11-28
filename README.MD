@@ -1,8 +1,7 @@
 <h1 align="center"><img src="https://media1.tenor.com/images/a5e0c08ee337053b43f97961e8b25b0a/tenor.gif"> <br> I'm Mochammad Daffa Putra Karyudi</h1>
 <h3 align="center">Welcome to my Portfolio</h3>
 
-<p align="rigth"><img src="https://spotify-github-profile.vercel.app/api/view?uid=n0rhzcnqghyfcaxfu74new5d3&cover_image=true&theme=default">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=n0rhzcnqghyfcaxfu74new5d3&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=n0rhzcnqghyfcaxfu74new5d3&redirect=true)</p>
+<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=n0rhzcnqghyfcaxfu74new5d3&cover_image=true&theme=default">
 
 [![Youtube Badge](https://img.shields.io/badge/-KeyCodeBadger-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/KeyCodeBadger/)](https://www.youtube.com/c/KeyCodeBadger/)
 [![Instagram Badge](https://img.shields.io/badge/-DaffaKaryudi-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/daffakaryudi/)](https://www.instagram.com/daffakaryudi/)
