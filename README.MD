@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media1.tenor.com/images/a5e0c08ee337053b43f97961e8b25b0a/tenor.gif"> <br> I'm Mochammad Daffa Putra Karyudi</h1>
-<h3 align="center">My technical assessment at some Companies <br> <strong>Don't worry i change it a bit so if the companies using same code to test someone, the tester can't find it in google</strong></h3>
+<h3 align="center">My technical assessment at some Companies <br> <strong>Don't worry i change it a bit so if the companies using same code to test someone, <br> the tester can't find it in google</strong></h3>
 
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=n0rhzcnqghyfcaxfu74new5d3&cover_image=true&theme=default">
 
